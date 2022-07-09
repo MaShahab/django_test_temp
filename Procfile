@@ -1,1 +1,1 @@
-web: gunicorn portfolio-heroku-project.wsgi --log-file -
+web: gunicorn temp_practice.wsgi --log-file -
